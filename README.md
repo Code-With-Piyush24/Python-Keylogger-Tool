@@ -1,43 +1,56 @@
-# Python-Keylogger-Tool  
+# Python Keylogger Tool  
 **SkillCraft Cybersecurity Internship – Task 4**  
 **Author:** Piyush Kumar  
 **Domain:** Cybersecurity
 
 ---
 
-## 📌 Project Overview  
-This project is a **Python-based keylogger** created for Task 4 of my SkillCraft Technology internship. It monitors and logs every keystroke made on a system, saving the data to a local text file. The primary goal of this tool is to explore the technical mechanics of keyloggers in the context of **ethical hacking** and **security research**.
+## 📘 Project Overview  
+This repository contains a Python-based keylogger developed as part of Task 4 of the SkillCraft Cybersecurity Internship. The application monitors and logs all keyboard activity on the host system, storing captured input in a secure local log file.  
+
+This project serves as a practical demonstration of how keylogging functions at the operating system level and is intended for ethical cybersecurity research and educational purposes only.
 
 ---
 
-## 🚀 Features  
-- ✅ Records every keyboard input in real time  
-- ✅ Stores logs in a local `.txt` file for easy review  
-- ✅ Operates silently in the background  
-- ✅ Simple interface to start and stop logging  
-- ✅ Cross-platform support using the `pynput` library  
+## 🔧 Features  
+- Captures and records all keystrokes in real time  
+- Stores logs locally in a `.txt` file  
+- Operates discreetly in the background  
+- Easy to start and stop with minimal user interaction  
+- Cross-platform support using the `pynput` library  
 
 ---
 
-## 📚 Learning Outcomes  
-- Gained hands-on experience with **keyboard event monitoring**  
-- Learned to implement a keylogger using the `pynput` Python module  
-- Practiced **secure file handling** and **log management**  
-- Explored practical cybersecurity applications such as:
+## 🎓 Learning Outcomes  
+Through the development of this tool, the following key concepts and skills were acquired:
+
+- Understanding of keylogging mechanisms at the OS level  
+- Proficiency in using the `pynput` library to handle keyboard events  
+- Secure log file creation and handling techniques  
+- Insight into the role of keyloggers in cybersecurity domains such as:
   - Penetration testing  
-  - Forensic analysis  
-- Strengthened understanding of **ethical implications and legal boundaries** in cybersecurity
+  - Digital forensics  
+- Reinforcement of ethical considerations and legal boundaries associated with surveillance tools
 
 ---
 
-## 💻 Sample Usage  
+## ▶️ Usage Instructions  
+
 To start the keylogger, run the following command in your terminal:
 
 ```bash
 python main.py
 ```
 
+> **Note:** Ensure all required dependencies are installed before running the script (see requirements section if applicable).
+
 ---
 
-## ⚠️ Disclaimer  
-This project is intended **solely for educational and ethical testing purposes**. Unauthorized use of keyloggers may be illegal and unethical. Always obtain proper consent before monitoring any system.
+## ⚠️ Ethical Disclaimer  
+This tool is intended **strictly for educational and ethical use**. Unauthorized installation or use of keyloggers may constitute a violation of privacy laws and ethical guidelines. Always obtain proper authorization before deploying this tool on any system.
+
+---
+
+## 📄 License  
+This project is provided for academic and learning purposes. No warranty or guarantees are provided. Use responsibly.
+
