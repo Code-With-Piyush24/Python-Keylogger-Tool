@@ -1,7 +1,6 @@
-
 # python-keylogger-tool  
 **SkillCraft Cybersecurity Internship – Task 4**  
-**Author:** Piyush Kumar 
+**Author:** Piyush Kumar  
 **Domain:** Cybersecurity
 
 ---
